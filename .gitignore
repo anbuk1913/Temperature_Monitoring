@@ -2,6 +2,7 @@
 .env
 
 orders.json
+node_modules
 
 # Logs
 logs
